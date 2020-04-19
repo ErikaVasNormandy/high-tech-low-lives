@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://high-tech-low-lives.netlify.app',
     gaTrackingId: null,
     trailingSlash: false,
   },
