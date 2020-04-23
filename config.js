@@ -6,11 +6,11 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
+    logo: 'https://vignette.wikia.nocookie.net/cyberpunk/images/8/89/Wiki-wordmark.png/revision/latest?cb=20180613203036',
     logoLink: 'https://hasura.io/learn/',
     title:
-      "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+      "<a href='https://cyberpunk.fandom.com/wiki/Main_Page'><img class='img-responsive' src='' alt='(Actual Wiki)' /></a>",
+    githubUrl: 'https://github.com/ErikaVasNormandy/high-tech-low-lives',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -48,11 +48,11 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
+      "<a href='https://hasura.io/learn/'>High Tech; Low Lives</a>",
   },
   siteMetadata: {
     title: 'Cyberpunk 2020 | High Tech Low Lives',
-    description: 'High Tech Low Live',
+    description: 'High Tech Low Lives',
     ogImage: null,
     docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
